@@ -3,6 +3,7 @@
 ### Java Developer
 
 
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhernan-torres-623732268%2F)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
