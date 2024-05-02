@@ -1,8 +1,7 @@
 # ![a-pixel-art-tribute-to-hernan-torres-featuring-his-0UNfWmIBQaedJTBAs63_ZA-Nc-D9LkdQniuYT9U2oT1rA (1)](https://github.com/Hernanjtg99/Hernanjtg99/assets/129800629/c521aeba-8b66-4524-890d-969143455983)Hola, mi nombre es Hernan Torres 👋
 
 ### Java Developer
-
-![Static Badge](https://img.shields.io/badge/Outlook-black?style=plastic&logo=linkedin&link=%3Ca%20href%3D%22mailto%3Ahernanjtg%40hotmail.com%22%3ELink%20text%3C%2Fa%3E)
+![Static Badge](https://img.shields.io/badge/Outlook-black?style=plastic&logo=Microsoft%20outlook)(mailto:hernanjtg@hotmail.com)
 [![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/hernan-torres-623732268/)
 
 
