@@ -2,7 +2,7 @@
 
 ### Java Developer
 
-
+![Static Badge](https://img.shields.io/badge/Outlook-black?style=plastic&logo=linkedin&link=%3Ca%20href%3D%22mailto%3Ahernanjtg%40hotmail.com%22%3ELink%20text%3C%2Fa%3E)
 [![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/hernan-torres-623732268/)
 
 
