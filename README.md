@@ -4,9 +4,10 @@
 [![Static Badge](https://img.shields.io/badge/Outlook-black?style=plastic&logo=Microsoft%20outlook)](mailto:hernanjtg@hotmail.com)
 [![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/hernan-torres-623732268/)
 
+![a-vibrant-and-eye-catching-banner-focused-on-progr-uKd6pRXqRr-aVMk6dl2uxQ-J8oP-lu4S4m5TuAtX0JOCQ (3)](https://github.com/Hernanjtg99/Hernanjtg99/assets/129800629/98a1b83b-7ed7-4179-a917-9f53aef39eaf)
 
 
-¡Entiendo! Aquí te presento una sugerencia para una página de inicio de tu sitio web como desarrollador Java:
+
 
 Hernán Torres - Desarrollador Java
 
@@ -22,9 +23,7 @@ Mis Proyectos
 
 Explora algunos de los proyectos en los que he trabajado. cada proyecto refleja mis habilidades.
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
-> 
-> ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
+
 
 
 
